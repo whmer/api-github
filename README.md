@@ -2,7 +2,7 @@
 - *https://api.github.com/users/*${username}
 
 <center>
-<img align=center src="./.git/git.jpg" width="80%"/>
+<img align=center src="./git/git.jpg" width="80%"/>
 </center>
 <br>
 <br>
