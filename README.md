@@ -1,5 +1,5 @@
 # API Github
-- *https://api.github.com/users/*${username}
+- *https://api.github.com/users/${username}*
 
 <center>
 <img align=center src="./git/git.jpg" width="80%"/>
