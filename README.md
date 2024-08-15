@@ -1,9 +1,9 @@
 # API Github
 - *https://api.github.com/users/${username}*
 
-<center>
+<p align="center">
 <img align=center src="./git/git.jpg" width="80%"/>
-</center>
+</p>
 <br>
 <br>
 
@@ -40,8 +40,6 @@ rl.question('Enter the GitHub username: ', async (username) => {
 });
 
 ```
-<center>
-
 ```ts
                _         _ _   _           _     
     __ _ _ __ (_)   __ _(_) |_| |__  _   _| |__  
@@ -51,4 +49,3 @@ rl.question('Enter the GitHub username: ', async (username) => {
         |_|        |___/                         
  
 ```
-</center>
